@@ -1,0 +1,15 @@
+.card-container {
+  width: 14rem;
+}
+.title {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+.ratings {
+  display: flex;
+  justify-content: space-between;
+}
+img {
+  width: 100%;
+  height: 10rem;
+}
